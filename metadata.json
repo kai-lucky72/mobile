@@ -1,0 +1,6 @@
+{
+  "name": "Finance Tracker",
+  "description": "ABCD Personal Finance Tracker helps users track daily expenses, set budgets, receive budget alerts, and visualize spending habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
